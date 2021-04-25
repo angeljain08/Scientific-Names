@@ -1,6 +1,6 @@
 # Scientific Names
 
-| Common Name | Scientific Name |
+| **Common Name** | **Scientific Name** |
 | :--- | :--- |
 | Wheat | _Triticum aestivum_ |
 | Rice | _Oryza sativa_ |
